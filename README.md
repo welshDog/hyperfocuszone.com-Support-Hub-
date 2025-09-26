@@ -1,5 +1,11 @@
 # 🚀 Hyperfocus Zone Support Page
 
+# Neuro-Dreams-Social-Zone
+
+[💎⚡ SUPPORT THE HYPERFOCUS EMPIRE ⚡💎 – Donation & Sponsorship Portal](https://welshdog.github.io/hyperfocuszone.com-Support-Hub-/)
+
+> Join our Focus Warriors, Elite Agents, and Empire Builders to power next-gen ADHD-friendly tools!
+
 A premium, accessibility-focused support page for the Hyperfocus Empire, built with ADHD and dyslexic users in mind.
 
 ## ✨ Features
